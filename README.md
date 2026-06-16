@@ -31,4 +31,4 @@ npm start
 
 **Manoj Kumar (M.Rajpoot)**
 - GitHub: [@manojcodings](https://github.com/manojcodings)
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn: [Manoj Kumar](https://www.linkedin.com/in/manoj-kumar-684b133a6/)
